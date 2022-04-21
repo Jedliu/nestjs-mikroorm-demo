@@ -4,6 +4,12 @@
 $ npm install
 ```
 
+## Create Database
+
+```bash
+$ docker-compose up -d db-mikro
+```
+
 ## Running the app
 
 ```bash
